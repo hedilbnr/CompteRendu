@@ -1,0 +1,9 @@
+
+seaborn version: 0.13.2
+matplotlib version: 3.9.2
+skfuzzy version: 0.5.0
+pandas version: 2.2.2
+numpy version: 1.26.4
+re version: 2.2.1
+nltk version: 3.9.1
+fcmeans version: 1.7.2
